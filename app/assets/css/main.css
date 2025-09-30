@@ -1,4 +1,3 @@
-<style>
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
@@ -464,5 +463,3 @@ code {
 .glass-strong {
   @apply bg-white/90 dark:bg-gray-900/90 backdrop-blur-lg border border-white/30 dark:border-gray-700/30;
 }
-</style>
-
